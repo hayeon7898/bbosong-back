@@ -47,9 +47,9 @@
 ## 🛠 Tech Stack
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 
-| Type | Tech Stack <img width = 680> |
+| Type | Tech Stack <img width = 660> |
 | :---: | --- |
-| **Database** |![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
+| **Database** |![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Auth** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) |
 | **Feature** | ![QR Code](https://img.shields.io/badge/QR_Code-000000?style=flat) ![Jimp](https://img.shields.io/badge/Jimp-4B32C3?style=flat) ![Resend](https://img.shields.io/badge/Resend-000000?style=flat&logo=resend&logoColor=white) |
 | **Logging & Test** | ![Winston](https://img.shields.io/badge/Winston-5A5A5A?style=flat) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white) |
