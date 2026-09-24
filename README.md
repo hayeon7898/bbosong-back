@@ -8,17 +8,19 @@
 
 ---
 ## ☔ About Project
+
+### 📌 Project
+
 - UNICORN 해커톤 참여 <img width="19.2" height="25.8" alt="korea-logo" src="https://github.com/user-attachments/assets/b29e9d4b-fff7-41eb-928e-9321dd35a557" />
 - 2025.07.20 ~ 2025.08.31
 - PM(1) · Designer(2) · Full Stack(2)
 
----
-## 👩🏻‍💻 My Role
+### 👩🏻‍💻 My Role
 
-- Prisma 기반 MySQL 연동 및 DB 스키마 설계
-- MyPage/QR/QR Scan 도메인 API 구현
-- Resend를 활용한 회원가입 이메일 인증 구현 (인증 토큰 링크 발송 및 검증)
-- Railway를 이용한 백엔드 서버 및 MySQL DB 배포
+- `Prisma` 기반 `MySQL` 연동 및 DB 스키마 설계
+- `MyPage`/`QR`/`QR Scan` 도메인 API 구현
+- `Resend`를 활용한 회원가입 이메일 인증 구현 (인증 토큰 링크 발송 및 검증)
+- `Railway`를 이용한 Backend Server 및 MySQL DB 배포
 
 ---
 ## 📡 API
